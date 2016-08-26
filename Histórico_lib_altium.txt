@@ -1,0 +1,20 @@
+Rubens 04/05/16 => Componentes placa TFT
+Nathan 06/06/16 => Inserido componente PIC16F916
+Nathan 07/06/16 => Inserido componente XTAL 10MHz 
+Werle  22/06/16 => Inseridos diversos componentes do SeaStar que estavam com "Cod por definir". -Cristal XTAL 8MHZ. -Resistor 8K2
+Werle  23/06/16 => Inserida Referencia do MUR360S, componente estava com 'Cod por definir'... ao invés de "Cod por definir".
+Werle  13/07/16 => Inserido Referencia e 3D da barra de pinos 4x1 SMD.
+Daniel 01/08/16 => Inserido componentes: Capacitor 1uF 50V (003.05.015) e transistor MJD47T4 (008.20.003)
+Daniel 08/08/2016 => Inserido componentes: criado o led RGB SMD 5060 (006.00.021) com seu respectivo footprint (LED-RGB-PLCC6)
+Daniel 09/08/2016 => Inserido componente: criado o led SMD 3528 VERDE (006.00.022) com seu respectivo footprint (LED3528-GREEN)
+Daniel 09/08/2016 => Inserido componente: criada a tecla SMD 1,5MM de altura (051.00.009) com seu respectivo footprint (TECLA-SMD 5,2 X 5,2 X 1,5MM)
+Daniel 10/08/2016 => Inseridos componentes: criado resistor SMD 220R 0805 (002.05.014), SMD 220R 0603 (002.00.012) e conector FCI para display OLED (052.17.004)
+Daniel 11/08/2016 => Inserido componente: criado capacitor 47nF 0805 50V (003.05.011)
+Daniel 11/08/2016 => Inserido componente: criado led driver 16 canais STP16CPC26
+Daniel 12/08/2016 => Inserido componente: criado o módulo bluetooth Low Energy SPBTLE-RF
+Daniel 16/08/2016 => Alterações: Inserida REFERENCIA no item "bluetooth Low Energy SPBTLE-RF" e inserido o item "CODIGO PCI" para inserir
+				 o código da placa e sair automaticamente na BOM  e na serigrafia.
+Daniel 17/08/2016 => Alterações: Inserida REFERENCIA no item CI STP16CPC26
+Daniel 19/08/2016 => Alterações: Inserido componente: Cristal 32.768KHz SMD no esquemático (009.00.002) e footprint (MC-306)
+Daniel 23/08/2016 => Alterações: Inserido componente: CI PROC PIC24HJ128GP504 TQFP44 (001.05.004)
+Daniel 25/08/2016 => Alterações: Inserido mais uma opção de footprint no led RGB 5060 (006.00.021), denominada "LED-RGB-HL-AF-5060H248BS36FU76GC-S1-T1"
