@@ -18,3 +18,4 @@ Daniel 17/08/2016 => Alterações: Inserida REFERENCIA no item CI STP16CPC26
 Daniel 19/08/2016 => Alterações: Inserido componente: Cristal 32.768KHz SMD no esquemático (009.00.002) e footprint (MC-306)
 Daniel 23/08/2016 => Alterações: Inserido componente: CI PROC PIC24HJ128GP504 TQFP44 (001.05.004)
 Daniel 25/08/2016 => Alterações: Inserido mais uma opção de footprint no led RGB 5060 (006.00.021), denominada "LED-RGB-HL-AF-5060H248BS36FU76GC-S1-T1"
+Daniel 26/08/2016 => Alterações: Inserido símbolo alternativo (Alternate 1) para o componente "CI PROC DSPIC33EP256MU806 TQFP64" (001.05.021)
