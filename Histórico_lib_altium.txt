@@ -19,3 +19,7 @@ Daniel 19/08/2016 => Alterações: Inserido componente: Cristal 32.768KHz SMD no e
 Daniel 23/08/2016 => Alterações: Inserido componente: CI PROC PIC24HJ128GP504 TQFP44 (001.05.004)
 Daniel 25/08/2016 => Alterações: Inserido mais uma opção de footprint no led RGB 5060 (006.00.021), denominada "LED-RGB-HL-AF-5060H248BS36FU76GC-S1-T1"
 Daniel 26/08/2016 => Alterações: Inserido símbolo alternativo (Alternate 1) para o componente "CI PROC DSPIC33EP256MU806 TQFP64" (001.05.021)
+Daniel 30/08/2016 => Alterações: Inseridos componentes: RES 3K9 1% 0603 (002.00.019), RES 33R 1% 0603 (002.00.017), CC 100nF 50V 0603 (003.00.001),
+							CC 22pF 50V 0603 (003.00.002), RES 0R 1% 0603 (002.00.001), RES 1K5 1% 0603 (002.00.010)
+							RES 220K 1% 0603 (002.00.027), RES 470K 1% 0603 (002.00.020), RES 1K 1% 0603 (002.00.009)
+							RES 150R 1% 0603 (002.00.007), RES 1M 1% 0603 (002.00.011), CC 47nF 50V 0603 (003.00.003)
