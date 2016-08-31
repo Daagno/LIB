@@ -16,6 +16,12 @@ Daniel 16/08/2016 => Alterações: Inserida REFERENCIA no item "bluetooth Low Ener
 				 o código da placa e sair automaticamente na BOM  e na serigrafia.
 Daniel 17/08/2016 => Alterações: Inserida REFERENCIA no item CI STP16CPC26
 Daniel 19/08/2016 => Alterações: Inserido componente: Cristal 32.768KHz SMD no esquemático (009.00.002) e footprint (MC-306)
+Alison 20/08/2016 => Adicionado footprint TSSOP24_P0.65_B4.4 na biblioteca.
+Alison 20/08/2016 => Adicionado o footprint TSSOP24_P0.65_B4.4 ao componente "CI STP16CPC26" na biblioteca.
+Alison 20/08/2016 => Adicionado footprint FPC24_0.5MM_SFV24R-1STE1HLF na biblioteca baseado no FPC20_0.5MM_SFV20R-1STE1HLF.
+Alison 20/08/2016 => Adicionado o footprint "FPC24_0.5MM_SFV24R-1STE1HLF" ao componente "Conector SFV 24V 90 Femea" na biblioteca.
+Alison 20/08/2016 => Adicionado footprint SPBTLE-RF na biblioteca.
+Alison 20/08/2016 => Adicionado o footprint SPBTLE-RF ao componente MODULO BLUETOOTH LOW ENERGY SPBTLE-RF na biblioteca.
 Daniel 23/08/2016 => Alterações: Inserido componente: CI PROC PIC24HJ128GP504 TQFP44 (001.05.004)
 Daniel 25/08/2016 => Alterações: Inserido mais uma opção de footprint no led RGB 5060 (006.00.021), denominada "LED-RGB-HL-AF-5060H248BS36FU76GC-S1-T1"
 Daniel 26/08/2016 => Alterações: Inserido símbolo alternativo (Alternate 1) para o componente "CI PROC DSPIC33EP256MU806 TQFP64" (001.05.021)
