@@ -30,3 +30,4 @@ Daniel 30/08/2016 => Alterações: Inseridos componentes: RES 3K9 1% 0603 (002.00.
 							RES 220K 1% 0603 (002.00.027), RES 470K 1% 0603 (002.00.020), RES 1K 1% 0603 (002.00.009)
 							RES 150R 1% 0603 (002.00.007), RES 1M 1% 0603 (002.00.011), CC 47nF 50V 0603 (003.00.003)
 Daniel 30/08/2016 => Alterações: Inserido componente: RES 15K 1% 0603 (002.00.008)
+Daniel 01/09/2016 => Alterações: Criado componente "CI SINGLE 8-CHANNEL ANALOG MUX HCF4051" (CISMD4051)
