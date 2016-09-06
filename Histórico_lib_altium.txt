@@ -32,3 +32,4 @@ Daniel 30/08/2016 => Alterações: Inseridos componentes: RES 3K9 1% 0603 (002.00.
 Daniel 30/08/2016 => Alterações: Inserido componente: RES 15K 1% 0603 (002.00.008)
 Daniel 01/09/2016 => Alterações: Criado componente "CI SINGLE 8-CHANNEL ANALOG MUX HCF4051" (CISMD4051)
 Daniel 02/09/2016 => Alterações: Criado conectores macho e fêmea header 2x7 vias (052.01.005) e (052.01.004)
+Daniel 06/09/2016 => Alterações: Criado o conector "CON STLZ 950 2 VIAS 180 MACHO PTH" (052.14.067)
