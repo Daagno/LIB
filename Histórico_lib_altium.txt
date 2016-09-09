@@ -34,3 +34,4 @@ Daniel 01/09/2016 => Alterações: Criado componente "CI SINGLE 8-CHANNEL ANALOG M
 Daniel 02/09/2016 => Alterações: Criado conectores macho e fêmea header 2x7 vias (052.01.005) e (052.01.004)
 Daniel 06/09/2016 => Alterações: Criado o conector "CON STLZ 950 2 VIAS 180 MACHO PTH" (052.14.067)
 Daniel 08/09/2016 => Alterações: Criado o conector "CON MINIFIT 12V 90 FEMEA PEG PTH" (052.21.006) e o conector "CON MINIFIT 16V 90 FEMEA PTH" (052.21.007)
+Alison 09/09/2016 => Alterações: Alterado footprint FPC24_0.5MM_SFV24R-1STE1HLF - estava com dois pads "escondidos" os quais são ancoragem do conector.
