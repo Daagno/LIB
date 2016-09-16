@@ -42,3 +42,4 @@ Daniel 13/09/2016 => Alterações: Ajustado footprint "TECLA_TS-06M-ASM" utilizada
 Alison 13/09/2016 => Alterações: criado componente VIPer53EDIP.
 Daniel 15/09/2016 => Alterações: criado componente "IO DESCRICAO" para permitir a mudança da descrição de pinos de entrada e saída de acordo com a variante da montagem. Este item não é posicionado nem na BOM e nem na
 				 pick'n place, pois foi colocado como Nettie e footprint nulo.
+Daniel 16/09/2016 => Alterações: criado componente "CI REG CHA A4447" (001.10.018)
