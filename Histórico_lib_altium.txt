@@ -64,3 +64,4 @@ Alison 17/09/2016 => Alteracoes: criado componente Res 3Ohms 3W. Criado footprin
 Alison 17/09/2016 => Alteracoes: criado footprint e componente SS11V-04350-CH.
 Alison 17/09/2016 => Alteracoes: criado componente TL431.
 Alison 17/09/2016 => Alteracoes: criado componente LTV-817A.
+Daniel 19/09/2016 => Alterações: criado componente "TRAN NPN BST52 SOT89" (008.15.001) e footprint de acordo com datasheet da NXP.
