@@ -67,3 +67,4 @@ Alison 17/09/2016 => Alteracoes: criado componente LTV-817A.
 Daniel 19/09/2016 => Alterações: criado componente "TRAN NPN BST52 SOT89" (008.15.001) e footprint de acordo com datasheet da NXP.
 Daniel 22/09/2016 => Alterações: inserida referência "002.75.001" no componente "R POLYSWITCH 60R020XU"
 Daniel 22/09/2016 => Alterações: criado componentes diodo zener "DZ 8,2V 1/2W MINIMELF" (005.10.014) e "DZ 12V 1W MELF" (005.10.008)
+Alison 23/09/2016 => Alterações: alterado compo "Partnumber" para Part Number dos seguintes componentes: CC 100pF 250VAc,CC 4,7nF 250VAC Y2,CC 47nF 250VAC,CC 0.33uF 250VAC E IND 2,2uH 2512 SMD.
