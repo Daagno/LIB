@@ -70,4 +70,7 @@ Daniel 22/09/2016 => Alterações: criado componentes diodo zener "DZ 8,2V 1/2W MI
 Alison 23/09/2016 => Alterações: alterado compo "Partnumber" para Part Number dos seguintes componentes: CC 100pF 250VAc,CC 4,7nF 250VAC Y2,CC 47nF 250VAC,CC 0.33uF 250VAC E IND 2,2uH 2512 SMD.
 Alison 25/09/2016 => Alteracoes: adicionado os seguintes componentes:08055A271JAT2A ,08055A3R0CAT2A ,CE201210-R22J e Si4010. Criado footprint MSOP-10.
 Daniel 28/09/2016 => Alterações: adicionado o resistor SMD 0805 1% 56K (002.05.039)
-Daniel 29/09/2016 => Alterações: adicionado led verde SMD 5060 PN.:HL-AF-5060U51GC-3-S1-T1, led azul SMD 5060 PN.: HL-AF-5060H203BC-3-S1-T1 led vermelho SMD 5060 PN.: HL-AF-5060U4FC-3-S1-T1 
+Daniel 29/09/2016 => Alterações: adicionado led verde SMD 5060 PN.:HL-AF-5060U51GC-3-S1-T1 (006.00.027), led azul SMD 5060 PN.: HL-AF-5060H203BC-3-S1-T1 (006.00.028) led vermelho SMD 5060 PN.: HL-AF-5060U4FC-3-S1-T1 (006.00.029)
+Daniel 30/09/2016 => Alterações: adicionado led branco SMD 5060 PN.: HL-AF-5060H343W-3-S1-T1-HR3 (006.00.030), led branco SMD 2835 PN.: HL-A-2835D46W-S1-08-HR3 (006.00.031)
+				 	    led verde SMD 2835 PN.: HL-A-2835D7GC-S1-08 (006.00.024), led azul SMD 2835 PN.: HL-A-2835D46BC-S1-08 (006.00.026),
+					    led vermelho SMD 2835 PN.: HL-A-2835D10FC-S1-08 (006.00.025)
