@@ -74,3 +74,4 @@ Daniel 29/09/2016 => Alterações: adicionado led verde SMD 5060 PN.:HL-AF-5060U51
 Daniel 30/09/2016 => Alterações: adicionado led branco SMD 5060 PN.: HL-AF-5060H343W-3-S1-T1-HR3 (006.00.030), led branco SMD 2835 PN.: HL-A-2835D46W-S1-08-HR3 (006.00.031)
 				 	    led verde SMD 2835 PN.: HL-A-2835D7GC-S1-08 (006.00.024), led azul SMD 2835 PN.: HL-A-2835D46BC-S1-08 (006.00.026),
 					    led vermelho SMD 2835 PN.: HL-A-2835D10FC-S1-08 (006.00.025)
+Daniel 30/09/2016 => Alterações: adicionado componentes conector 2SH-C 2 vias 90 PTH e conector 2SH-C 4 vias 90 PTH
