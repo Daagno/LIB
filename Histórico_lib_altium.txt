@@ -77,3 +77,4 @@ Daniel 30/09/2016 => Alterações: adicionado led branco SMD 5060 PN.: HL-AF-5060H
 Daniel 30/09/2016 => Alterações: adicionado componentes conector 2SH-C 2 vias 90 PTH e conector 2SH-C 4 vias 90 PTH
 Alison 01/10/2016 => Alteracoes: Criado footprint e esquemático para bateria CR2032 LINX.
 Alison 01/10/2016 => Alteracoes: Criado TestPoint SMD.
+Alison 02/10/2016 => Alteracoes: Criado componente e footprint do SI4355, capacitor 5.1pF,2.7pF,borne 3 e 4 posições.
