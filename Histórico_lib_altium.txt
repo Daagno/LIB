@@ -84,3 +84,4 @@ Daniel 03/10/2016 => Alterações: diminuido pad de solda dos conectores 2SH-C 2 v
 				 borda do furo.
 Daniel 04/10/2016 => Alterações: criado componente "RES 330K 1W 1% 400V 50PPM" (002.30.001)
 Daniel 04/10/2016 => Alterações: ajustado símbolo gráfico do diodo zener 5,6V SMD 1/2 W que estava errado.
+Daniel 04/10/2016 => Alterações: alterado descrição do conector "CON STLZ 950 2 VIAS 180 MACHO PTH" para "CON BLZ 2 VIAS 180 MACHO PTH"
