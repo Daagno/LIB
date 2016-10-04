@@ -82,3 +82,4 @@ Alison 02/10/2016 => Alteracoes: Criado componente e footprint do SI4355, capaci
 Daniel 03/10/2016 => Alterações: Criado componente "D PONTE RETIFICADORA 0,8A 600V SMD – HD06" (005.50.001), "CI LTV826S SMD" (001.15.001), "RELE 9V AX1RC-9V" (030.05.001) 
 Daniel 03/10/2016 => Alterações: diminuido pad de solda dos conectores 2SH-C 2 vias 90 PTH e conector 2SH-C 4 vias 90 PTH para não ficar tão próximo da
 				 borda do furo.
+Daniel 04/10/2016 => Alterações: criado componente "RES 330K 1W 1% 400V 50PPM" (002.30.001)
