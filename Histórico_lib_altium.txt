@@ -83,3 +83,4 @@ Daniel 03/10/2016 => Alterações: Criado componente "D PONTE RETIFICADORA 0,8A 60
 Daniel 03/10/2016 => Alterações: diminuido pad de solda dos conectores 2SH-C 2 vias 90 PTH e conector 2SH-C 4 vias 90 PTH para não ficar tão próximo da
 				 borda do furo.
 Daniel 04/10/2016 => Alterações: criado componente "RES 330K 1W 1% 400V 50PPM" (002.30.001)
+Daniel 04/10/2016 => Alterações: ajustado símbolo gráfico do diodo zener 5,6V SMD 1/2 W que estava errado.
