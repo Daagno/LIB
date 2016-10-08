@@ -89,3 +89,4 @@ Alison 04/10/2016 => Alterações: Criado rele 12V HONGFA HF3FF/012-1ZST e seu foo
 Daniel 04/10/2016 => Alterações: Criado footprint "CON BARRA 2x3 180 MACHO SMD INVERTIDO"
 Alison 05/10/2016 => Alterações: corrigido footprint SOT23_5. Adicionado 3d no Rele 12V HF3FF, no TO220AB e no resistor 3W.
 Daniel 06/10/2016 => Alterações: inserido "CON MINIFIT 16V 180 FEMEA PTH" (052.21.014) e inseridas representações com minifit 180º nos footprints dos minifits 12V e 16V 180º FEMEA PTH
+Daniel 08/10/2016 => Alterações: inserido footprint "JUMP2SLD_0805" ao componente "JUMPER 0805". Criado componente "PAD" e atribuído alguns footprints.
