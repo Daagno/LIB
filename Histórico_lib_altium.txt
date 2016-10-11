@@ -92,3 +92,4 @@ Daniel 06/10/2016 => Alterações: inserido "CON MINIFIT 16V 180 FEMEA PTH" (052.2
 Daniel 08/10/2016 => Alterações: inserido footprint "JUMP2SLD_0805" ao componente "JUMPER 0805". Criado componente "PAD" e atribuído alguns footprints.
 Daniel 09/10/2016 => Alterações: criado componente "RES 18R 5% 1W PTH" e "RES 27R 5% 1W PTH". Falta campo REFERENCIA.
 Daniel 10/10/2016 => Alterações: aumentada tolerância dimensional dos furos de posicinamento dos footprints dos conectores "CON BARRA 2x3 180 MACHO SMD INVERTIDO", 2SH-C 2 vias 90 PTH e 2SH-C 4 vias 90 PTH
+Daniel 11/10/2016 = Alterações: criado resistores 2512 "RES 27R 1% 2512" e "RES 18R 1% 2512". Falta codificar.
