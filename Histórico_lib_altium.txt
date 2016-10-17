@@ -95,3 +95,4 @@ Daniel 10/10/2016 => Alterações: aumentada tolerância dimensional dos furos de p
 Daniel 11/10/2016 => Alterações: criado resistores 2512 "RES 27R 1% 2512" e "RES 18R 1% 2512". Falta codificar.
 Daniel 11/10/2016 => Alterações: inseridos os códigos nos resistores SMD 2512 18R e 27R e nos resistores PTH 1W 18R e 27R. Códigos: 002.15.005,  002.15.006,  002.35.014 e 002.35.015
 Daniel 17/10/2016 => Alterações: inserido conector barra 90º SMD 2x7 (falta codificar)
+Daniel 17/10/2016 => Alterações: inserido resistor 68k 0603 SMD (002.00.034) e resistor 56R 1 W PTH (R56R1W)
