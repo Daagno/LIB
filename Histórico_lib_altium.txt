@@ -94,3 +94,4 @@ Daniel 09/10/2016 => Alterações: criado componente "RES 18R 5% 1W PTH" e "RES 27
 Daniel 10/10/2016 => Alterações: aumentada tolerância dimensional dos furos de posicinamento dos footprints dos conectores "CON BARRA 2x3 180 MACHO SMD INVERTIDO", 2SH-C 2 vias 90 PTH e 2SH-C 4 vias 90 PTH
 Daniel 11/10/2016 => Alterações: criado resistores 2512 "RES 27R 1% 2512" e "RES 18R 1% 2512". Falta codificar.
 Daniel 11/10/2016 => Alterações: inseridos os códigos nos resistores SMD 2512 18R e 27R e nos resistores PTH 1W 18R e 27R. Códigos: 002.15.005,  002.15.006,  002.35.014 e 002.35.015
+Daniel 17/10/2016 => Alterações: inserido conector barra 90º SMD 2x7 (falta codificar)
