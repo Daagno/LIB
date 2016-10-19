@@ -97,3 +97,4 @@ Daniel 11/10/2016 => Alterações: inseridos os códigos nos resistores SMD 2512 18
 Daniel 17/10/2016 => Alterações: inserido conector barra 90º SMD 2x7 (falta codificar)
 Daniel 17/10/2016 => Alterações: inserido resistor 68k 0603 SMD (002.00.034) e resistor 56R 1 W PTH (R56R1W)
 Daniel 19/10/2016 => Alterações: inserido conector BLZ 4 e 5 vias (052.14.047 e 052.14.049) 180º macho + resistor 330R 1206 SMD (002.10.018)
+Daniel 19/10/2016 => Alterações: inserido componente BARRA e seu footprint + CON RELE 5VIAS 180 FEMEA (052.15.001) + CON FUSIVEL 1VIA 180 FEMEA (052.04.019) + CON BARRA 2x7 90 MACHO PTH (052.01.XXX)
