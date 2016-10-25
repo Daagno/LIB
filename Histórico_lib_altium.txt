@@ -100,3 +100,4 @@ Daniel 19/10/2016 => Alterações: inserido conector BLZ 4 e 5 vias (052.14.047 e 
 Daniel 19/10/2016 => Alterações: inserido componente BARRA e seu footprint + CON RELE 5VIAS 180 FEMEA (052.15.001) + CON FUSIVEL 1VIA 180 FEMEA (052.04.019) + CON BARRA 2x7 90 MACHO PTH (052.01.XXX)
 Daniel 19/10/2016 => Alterações: inserido conector CON MATE-N-LOK 9 VIAS 180 FEMEA PTH (052.00.001)
 Daniel 20/10/2016 => Alterações: inserido TERMINAL FASTON MACHO 180º 6.3MM 25A (053.00.012) e modelo 3D para o footprint RELE_MINI_SRD-SERIE
+Daniel 25/10/2016 => Alterações: inserido TERMINAL FASTON-T 6.3MM (053.00.001)
