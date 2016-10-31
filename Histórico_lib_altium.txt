@@ -105,3 +105,4 @@ Alison 25/10/2016 => Alterações: Criado borne 4p e 3p com passo 5.08mm
 Daniel 26/10/2016 => Alterações: trocada a REFERENCIA do TERMINAL FASTON-T 6.3MM para 053.00.013
 Daniel 27/10/2016 => Alterações: Inserido crystal 12MHZ SMD (009.00.008) e inserido código em conector CON FPC 40V 90 FEMEA SMD 0.5mm PIT (052.17.005)
 Daniel 31/10/2016 => Alterações: Inserido conector MATE N LOK 12 vias (ainda sem referência). Inserido 3D no conector FASTON T
+Daniel 31/10/2016 => Alterações: Inserido REFERENCIA no item MATE N LOK 12 vias (052.00.006)
