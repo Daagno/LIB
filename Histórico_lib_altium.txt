@@ -107,3 +107,4 @@ Daniel 27/10/2016 => Alterações: Inserido crystal 12MHZ SMD (009.00.008) e inser
 Daniel 31/10/2016 => Alterações: Inserido conector MATE N LOK 12 vias (ainda sem referência). Inserido 3D no conector FASTON T
 Daniel 31/10/2016 => Alterações: Inserido REFERENCIA no item MATE N LOK 12 vias (052.00.006)
 Daniel 01/11/2016 => Alterações: Inserido código 052.01.044 no conector barra 90º SMD 2x7
+Daniel 09/11/2016 => Alterações: Inserido código 052.01.045 no conector CON BARRA 2x3 180 MACHO SMD
