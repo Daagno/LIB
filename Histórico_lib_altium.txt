@@ -109,3 +109,4 @@ Daniel 31/10/2016 => Alterações: Inserido REFERENCIA no item MATE N LOK 12 vias 
 Daniel 01/11/2016 => Alterações: Inserido código 052.01.044 no conector barra 90º SMD 2x7
 Daniel 09/11/2016 => Alterações: Inserido código 052.01.045 no conector CON BARRA 2x3 180 MACHO SMD
 Nathan 11/11/2016 => Alterações: Inserido conector minifit 4 vias 180 Femea
+Daniel 14/11/2016 => Alterações: Inserido 3D no minifit 4 vias 180 femea e o código "030.05.008" para o "RELE 12V HF3FF/012-1ZST"
