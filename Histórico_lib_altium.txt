@@ -111,3 +111,4 @@ Daniel 09/11/2016 => Alterações: Inserido código 052.01.045 no conector CON BARR
 Nathan 11/11/2016 => Alterações: Inserido conector minifit 4 vias 180 Femea
 Daniel 14/11/2016 => Alterações: Inserido 3D no minifit 4 vias 180 femea e o código "030.05.008" para o "RELE 12V HF3FF/012-1ZST"
 Daniel 16/11/2016 => Alterações: Inserido códigos nos conectores 2SH-C 2 vias 90 PTH (052.17.006) e conector 2SH-C 4 vias 90 PTH (052.17.007)
+Nathan 16/11/2016 => Alterações: Inserido componente CON SABRE 4VIAS 180 FEMEA PTH
