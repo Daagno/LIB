@@ -113,3 +113,4 @@ Daniel 14/11/2016 => Alterações: Inserido 3D no minifit 4 vias 180 femea e o cód
 Daniel 16/11/2016 => Alterações: Inserido códigos nos conectores 2SH-C 2 vias 90 PTH (052.17.006) e conector 2SH-C 4 vias 90 PTH (052.17.007)
 Nathan 16/11/2016 => Alterações: Inserido componente CON SABRE 4VIAS 180 FEMEA PTH
 Daniel 10/12/2016 => Alterações: Inserido nova opção de footprint de pad SMT retangular no componente "PAD"
+Daniel 12/12/2016 => Alterações: Modificado footprint "RELE_HF3FF-SERIE" corrigindo a posição da saída NA pela NF, que estavam invertidas. Inserida nova opção de pad para o componente PAD.
