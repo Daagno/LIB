@@ -117,3 +117,8 @@ Daniel 12/12/2016 => Alterações: Modificado footprint "RELE_HF3FF-SERIE" corrigi
 Daniel 16/02/2017 => Alterações: Inserido componente "CI PROC STM32F091VCT6 LQFP100" (001.05.030)
 Daniel 17/02/2017 => Alterações: Inserido componente "CI PROC MKV11Z128VLH7 LQFP64" Falta inserir REFERENCIA no componente.
 Daniel 20/02/2017 => Alterações: Inserido REFERENCIA (001.05.031) no componente "CI PROC MKV11Z128VLH7 LQFP64"
+Daniel 22/02/2017 => Alterações: 1) Alterado tipo do componente fiducial para "Standard (NO BOM)"
+				 2) Inserido compontente "RES 12K 1% 1206" (002.10.007)
+				 3) Inserido componente "POT 1K 20% PTC15NV18-102A2020 PTH" (002.50.003) -> (falta 3D) 
+				 4) Inserido componente "NTC 10K @ 25ºC 0,5% PTH" (SEN10K0P5)
+				 5) Ajustado símbolo do componente "R POLYSWITCH 60R020XU"
