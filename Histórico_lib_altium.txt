@@ -125,3 +125,4 @@ Daniel 22/02/2017 => Alterações: 1) Alterado tipo do componente fiducial para "S
 
 Daniel 08/03/2017 => Alterações: 1) Inserido componente "CON 4P.180 MACHO HRS DF1B SERIE THT" (componente criado pelo Evandro).
 				 2) Inserido 3D do componente "POT 1K 20% PTC15NV18-102A2020 PTH"
+Daniel 23/03/2017 => Alterações: Inserido REFERENCIA "052.10.021" no item "CON 4P.180 MACHO DF1B SERIE THT"
