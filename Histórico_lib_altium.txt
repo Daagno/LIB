@@ -127,3 +127,4 @@ Daniel 08/03/2017 => Alterações: 1) Inserido componente "CON 4P.180 MACHO HRS DF
 				 2) Inserido 3D do componente "POT 1K 20% PTC15NV18-102A2020 PTH"
 Daniel 23/03/2017 => Alterações: Inserido REFERENCIA "052.10.021" no item "CON 4P.180 MACHO DF1B SERIE THT"
 Eduardo 24/03/2017 => Alterações: Criado componentes "CI PROC PIC16F886-I/SO SOIC28" (001.05.015) + componente (CON DF1BZ 12 VIAS 90 MACHO PTH) -> (052.10.022).
+Daniel 27/03/2017 => Alterações: Criado componente "RES 470R 1% 1206" (002.10.022)
