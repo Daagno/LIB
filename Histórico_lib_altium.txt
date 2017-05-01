@@ -129,3 +129,5 @@ Daniel 23/03/2017 => Alterações: Inserido REFERENCIA "052.10.021" no item "CON 4
 Eduardo 24/03/2017 => Alterações: Criado componentes "CI PROC PIC16F886-I/SO SOIC28" (001.05.015) + componente (CON DF1BZ 12 VIAS 90 MACHO PTH) -> (052.10.022).
 Daniel 27/03/2017 => Alterações: Criado componente "RES 470R 1% 1206" (002.10.022)
 Eduardo 30/03/2017 => Alterações Criado componente "CI REG LIN 8V MC7808BDTRKG DPAK" (001.10.023)
+
+Daniel 30/04/2017 => Criado componente "CON BARRA 1x4 180 MACHO SMD ESPECIAL" que possui footprint especial para lâmpadas de led Nautilus. Falta 3D do componente.
