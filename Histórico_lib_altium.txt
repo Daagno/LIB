@@ -131,3 +131,4 @@ Daniel 27/03/2017 => Alterações: Criado componente "RES 470R 1% 1206" (002.10.02
 Eduardo 30/03/2017 => Alterações Criado componente "CI REG LIN 8V MC7808BDTRKG DPAK" (001.10.023)
 
 Daniel 30/04/2017 => Criado componente "CON BARRA 1x4 180 MACHO SMD ESPECIAL" que possui footprint especial para lâmpadas de led Nautilus. Falta 3D do componente.
+Daniel 01/05/2017 => Inserido 3D no componente "CON BARRA 1x4 180 MACHO SMD ESPECIAL" e resistores 56R e 100R 2512. Falta a referência destes resistores.
