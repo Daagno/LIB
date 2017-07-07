@@ -136,3 +136,5 @@ Daniel 02/05/2017 => Alterações: Inserido códido (002.15.007) para o componente 
 Róger 03/05/2017 => Alterações: Inserido códido (052.21.029) para o componente "CON MINIFIT 2V 180 FEMEA PTH"
 Nathan 03/05/2017 => Alterações Criados componentes "CE 220UF 25V PTH LOW ESR "(003.50.030), "CE 10UF 50V PTH LOW ESR"(003.50.031)
 Daniel 08/05/2017 => Alterações: Criado componente "CI PROC PIC32MZ2048EFM100-I/PT TQFP100" (001.05.032)
+Róger 15/05/2017 => Alterações: Inserido códido (001.47.001) para o componente LM393
+Daniel 07/07/2017 => Alterações: Inserido conectores BLZ 4 vias e 6 vias (052.14.057) e (052.14.045)
