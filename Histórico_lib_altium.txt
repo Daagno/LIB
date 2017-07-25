@@ -141,4 +141,5 @@ Daniel 07/07/2017 => Alterações: Inserido conectores BLZ 4 vias e 6 vias (052.14
 Daniel 07/07/2017 => Alterações: Inserido capacitor 1000uF 50V eletrolítico PTH (003.50.014)
 Daniel 17/07/2017 => Alterações: Inserico conector FASTON-C (053.00.014)
 Daniel 19/07/2017 => Alterações: Inserico conector MINIFIT 10V 180º FÊMEA (052.21.012)
+Daniel 25/07/2017 => Alterações: Inserido código (052.01.046) em "CON BARRA 2x7 90 MACHO PTH"
 
