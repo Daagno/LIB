@@ -143,3 +143,4 @@ Daniel 17/07/2017 => Alterações: Inserico conector FASTON-C (053.00.014)
 Daniel 19/07/2017 => Alterações: Inserico conector MINIFIT 10V 180º FÊMEA (052.21.012)
 Daniel 25/07/2017 => Alterações: Inserido código (052.01.046) em "CON BARRA 2x7 90 MACHO PTH"
 Daniel 26/07/2017 => Alterações: Inserido componente "RES 2K7 1% 0603" (002.00.015)
+Daniel 27/07/2017 => Alterações: Inserido componente "CON BARRA 1x6 180 MACHO PTH 25mm" (052.01.013)
