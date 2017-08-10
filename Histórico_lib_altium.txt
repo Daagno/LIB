@@ -144,3 +144,10 @@ Daniel 19/07/2017 => Alterações: Inserico conector MINIFIT 10V 180º FÊMEA (052.2
 Daniel 25/07/2017 => Alterações: Inserido código (052.01.046) em "CON BARRA 2x7 90 MACHO PTH"
 Daniel 26/07/2017 => Alterações: Inserido componente "RES 2K7 1% 0603" (002.00.015)
 Daniel 27/07/2017 => Alterações: Inserido componente "CON BARRA 1x6 180 MACHO PTH 25mm" (052.01.013)
+
+Daniel 10/08/2017 => Alterações: 1) Referência do componente "RES 56R 5% 1W PTH" passou de (R56R1W) para (002.35.021)
+				 2) Inserida referência (052.14.077) no componente "CON BORNE 4P 5.08 PTH"
+				 3) Inserida referência (052.14.076) no componente "CON BORNE 3P 5.08 PTH"
+				 4) Inserida referência (008.10.004) no componente "TRAN CANAL N IRFZ48NPbF TO220"
+				 5) Inserida referência (002.35.017) no componente "RES 0R33 5% 3W PTH"
+				 6) Inserida referência (001.05.033) no componente "C8051F930 LQFP32"
