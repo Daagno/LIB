@@ -170,3 +170,4 @@ Rubens 05/09/2017 => correção :  1)VN5T006ASP - pad errado.
 Daniel 11/09/2017 => Alterações 1) Inserido componente "CON BARRA 2x10 90 MACHO PTH" (052.01.009)
 				2) Inserido componente "CON BARRA 2x10 180 MACHO PTH" (052.01.008)
 				3) Inserido componente "CON BARRA 2x18 90 MACHO PTH" (052.01.009)
+				4) Inserido componente "CON BARRA 2x9 90 MACHO PTH" (052.01.009)
