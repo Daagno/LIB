@@ -173,3 +173,5 @@ Daniel 11/09/2017 => Alterações 1) Inserido componente "CON BARRA 2x10 90 MACHO 
 				4) Inserido componente "CON BARRA 2x9 90 MACHO PTH" (052.01.009)
 
 Daniel 12/09/2017 => Alterações: Alterado símbolo do componente "CI LDP01-35AY" (001.50.003)
+
+Daniel 13/09/2017 => Alterações: Criado componente "CON BARRA 2x18 180 FEMEA PTH" (052.01.051)
