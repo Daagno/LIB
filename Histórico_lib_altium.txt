@@ -180,3 +180,5 @@ Daniel 14/09/2017 => Alterações: Criado componente "POT 10K RV24AF-30 PTH" (002.
 
 Daniel 25/09/2017 => Alterações: Corrigido silkscreen do footprint RV24AF-30 (as linhas delimitantes do formato do potenciômetro passaram do top para bottom pois este componente é montado pelo lado bottom). Este footprint é usado 
 				 no componente "POT 10K RV24AF-30 PTH" (002.50.006)
+
+Daniel 29/09/2017 => Alterações: Inserido componente "CON KK 5 VIAS 180 MACHO PTH" (052.10.023) 
