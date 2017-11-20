@@ -183,4 +183,4 @@ Daniel 25/09/2017 => Alterações: Corrigido silkscreen do footprint RV24AF-30 (as
 
 Daniel 29/09/2017 => Alterações: Inserido componente "CON KK 5 VIAS 180 MACHO PTH" (052.10.023) 
 
-Daniel 12/10/2017 => Alterações: Inserido componente "LED RGB 5060 HL-AF-5060H271BU46FU79GC-S1-T1" (006.00.023)
+Daniel 20/11/2017 => Alterações: Inserido componente "RES 2K7 1% 0805" (002.05.018) 
