@@ -185,3 +185,5 @@ Daniel 29/09/2017 => Alterações: Inserido componente "CON KK 5 VIAS 180 MACHO PT
 
 Daniel 20/11/2017 => Alterações: Inserido componente "RES 2K7 1% 0805" (002.05.018) 
 				 Inserido componente "CI VNS14NV04P-E SO8" (001.00.005)
+
+Daniel 07/12/2017 => Alterações: Inserido regiões de keep-out no footprint do potenciômetro "POT 10K RV24AF-30 PTH" (002.50.006)
