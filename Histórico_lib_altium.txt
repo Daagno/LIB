@@ -189,3 +189,6 @@ Daniel 20/11/2017 => Alterações: Inserido componente "RES 2K7 1% 0805" (002.05.0
 Daniel 07/12/2017 => Alterações: Inserido regiões de keep-out no footprint do potenciômetro "POT 10K RV24AF-30 PTH" (002.50.006)
 
 Daniel 15/01/2017 => Alterações: Inserido componente "LED AZ 3528" (006.00.033)
+
+Daniel 16/02/2018 => Alterações: Inserido componente "TRAN CANAL P IRF5305PbF TO220" (008.10.005)
+				 Inserido componente "D SCHOTTKY SD3220S100S5R0 SMD3220" (005.20.002)
