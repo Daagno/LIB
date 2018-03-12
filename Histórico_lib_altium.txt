@@ -194,3 +194,5 @@ Daniel 16/02/2018 => Alterações: Inserido componente "TRAN CANAL P IRF5305PbF TO
 				 Inserido componente "D SCHOTTKY SD3220S100S5R0 SMD3220" (005.20.002)
 
 Daniel 21/02/2018 => Alterações: Inserido componente "RES 22K 1% 0603" (002.00.013)
+
+Daniel 09/03/2018 => Alterações: Inserido componente "RELE MINIATURA 12V 16A 1NA+1NF" (030.05.004)
