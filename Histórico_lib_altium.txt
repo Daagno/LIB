@@ -200,3 +200,9 @@ Daniel 09/03/2018 => Alterações: Inserido componente "RELE MINIATURA 12V 16A 1NA
 Daniel 12/03/2018 => Alterações: Corrigido símbolo do componente "RELE MINIATURA 12V 16A 1NA+1NF" (030.05.004)
 
 Daniel 12/03/2018 => Alterações: Inserido componentes "CON BLZ 8 VIAS 180 MACHO PTH" (052.14.041) + "CON BLZ 10 VIAS 180 MACHO PTH" (052.14.059)
+
+Arthur 16/03/2018 => Alterações: Inserido componente "RELE 12V AZ971E" (xxx.yy.zzz)
+
+Arthur 16/03/2018 => Alterações: Inserido 3D do componente "RELE 12V AZ971E" (xxx.yy.zzz)
+
+Arthur 16/03/2018 => Alterações: Inserido Referência do componente "RELE 12V AZ971E" (030.05.010)
