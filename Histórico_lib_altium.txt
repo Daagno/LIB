@@ -210,3 +210,6 @@ Arthur 16/03/2018 => Alterações: Inserido Referência do componente "RELE 12V AZ9
 Daniel 26/03/2018 => Alterações: Inserida Referência no componente "CC 470pF 200V 0603" (003.00.004)
 
 Arthur 03/04/2018 => Alterações: Inserida Referência no componente "CC 4,7nF 50V 0805" (003.05.020)
+
+Daniel 12/04/2018 => Alterações: Inserida Componentes "CI EEPROM M93C46 SO8" (001.20.003)  e "CC 10nF 250V 1206" (003.10.009).
+				 Corrigido símbolo do componente "CI BSP752R" (001.00.003)
