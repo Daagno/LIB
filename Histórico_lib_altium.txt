@@ -213,3 +213,5 @@ Arthur 03/04/2018 => Alterações: Inserida Referência no componente "CC 4,7nF 50V
 
 Daniel 12/04/2018 => Alterações: Inserida Componentes "CI EEPROM M93C46 SO8" (001.20.003)  e "CC 10nF 250V 1206" (003.10.009).
 				 Corrigido símbolo do componente "CI BSP752R" (001.00.003)
+
+Daniel 27/04/2018 => Alterações: Inserido componente "CON BARRA 2x6 180 MACHO H6MM PTH" (052.01.008)
