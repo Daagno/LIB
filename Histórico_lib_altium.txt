@@ -215,3 +215,4 @@ Daniel 12/04/2018 => Alterações: Inserida Componentes "CI EEPROM M93C46 SO8" (00
 				 Corrigido símbolo do componente "CI BSP752R" (001.00.003)
 
 Daniel 27/04/2018 => Alterações: Inserido componente "CON BARRA 2x6 180 MACHO H6MM PTH" (052.01.008)
+				 Inserido referência (052.01.029) no componente "CON BARRA 2x6 180 FEMEA PTH"
