@@ -220,3 +220,13 @@ Daniel 27/04/2018 => Alterações: Inserido componente "CON BARRA 2x6 180 MACHO H6
 Daniel 19/07/2018 => Alterações: Inserido componente "LED RGB 5060 HL-AF-5060H271BU46FU79GC-S1-T1" (006.00.023)
 
 Daniel 26/07/2018 => Alterações: Inserido diodo "D ES3D SMC" referência DSMDES3D (diodo usa codificação antiga).
+
+Vinicius 27/07/2018 => Alterações: Inserido componente "CON AKZ 2 VIAS 180 FEMEA PTH" (052.02.005)
+				   Inserido componente "CE 47uF 50V PTH" (003.50.037)
+				   Inserido componente "RES 180K 1% 0805" (002.05.045)
+ 			    	   Inserido componente "CI PROC ATSAM4SD32CB-AN" (001.05.037)
+				   Inserido componente "CI WIFI WINC15X0" (001.30.007)
+				   Inserido referência do componente "CI ZXMC4559" (001.00.007)
+
+Daniel 27/07/2018_2 => Alterações: Inserida barra de pinos "CON BARRA 1x10 180 MACHO PTH" (052.01.014) e inserida opção de footprint DO214AC-SMA_R1206 
+				   no diodo "D 1N4007 SMD" (005.00.001) para permitir montar um resistor 1206 no lugar do diodo.
