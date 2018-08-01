@@ -232,3 +232,5 @@ Daniel 27/07/2018_2 => Alterações: Inserida barra de pinos "CON BARRA 1x10 180 M
 				   no diodo "D 1N4007 SMD" (005.00.001) para permitir montar um resistor 1206 no lugar do diodo.
 
 Daniel 01/08/2018 => Alterações: Inserido resistor "RES 27K 1% 0603" (002.00.029) e resistor "RES 27K 1% 0805" (002.05.016)
+
+Daniel 01/08/2018_2 => Alterações: Inserido resistor "RES 470R 1% 0603" (002.00.021)
