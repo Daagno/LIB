@@ -241,3 +241,7 @@ Daniel 03/08/2018 => Alterações: Corrigida descrição do componente "LED VM 3MM" 
 				 Inserido componente "LED VD 3MM" (006.05.001)
 				 Inserido componente "LED AM 3MM" (006.05.003)
 
+
+Daniel 06/08/2018 => Alterações: Inserido componente "CC 100pF 50V 0805" (003.05.004)
+				 Inserido componente "CON BARRA PERFIL BAIXO 2x6 180 FEMEA SMD" (Falta cadastro da referência, que foi encaminhado ao Jonathan para criar o mesmo)
+
