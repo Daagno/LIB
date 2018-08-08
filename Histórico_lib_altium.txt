@@ -255,3 +255,5 @@ Daniel 06/08/2018_02 => Alterações: Inserido componente "RES 0R15 1% 0805" (002.
 				
 Daniel 07/08/2018 => Alterações: Inserido componente "TRAFO FONTE CHAVEADA 190-450V 12V 0,4A 100kHZ" (007.60.001)
 				 Inserido componente "TRAFO FILTRO TRIFASICO 2mH 320mA" (007.30.001) - Falta o 3D!
+
+Daniel 08/08/2018 => Alterações: Inserido componente "CON BARRA 2x6 180 MACHO H3MM PTH" (Falta cadastro da referência, que foi encaminhado ao Jonathan para criar o mesmo)
