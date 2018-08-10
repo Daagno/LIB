@@ -257,3 +257,6 @@ Daniel 07/08/2018 => Alterações: Inserido componente "TRAFO FONTE CHAVEADA 190-4
 				 Inserido componente "TRAFO FILTRO TRIFASICO 2mH 320mA" (007.30.001) - Falta o 3D!
 
 Daniel 08/08/2018 => Alterações: Inserido componente "CON BARRA 2x6 180 MACHO H3MM PTH" (Falta cadastro da referência, que foi encaminhado ao Jonathan para criar o mesmo)
+
+Daniel 10/08/2018 => Alterações: Inserido componente "POT MULTI VOLTAS 3K3 A15-3P PTH" (Falta cadastro da referência e do 3D, que foi encaminhado ao Jonathan para criar o mesmo)
+				 Inserido componente "RES 0R100 1% 1206" (002.10.035)
