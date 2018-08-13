@@ -264,3 +264,5 @@ Daniel 10/08/2018 => Alterações: Inserido componente "POT MULTI VOLTAS 3K3 A15-3
 Daniel 10/08/2018_02 => Alterações: Inserida referência no item "CON BARRA PERFIL BAIXO 2x6 180 FEMEA SMD" (052.01.053)
 				    Inserida referência no item "CON BARRA 2x6 180 MACHO H3MM PTH" (052.01.052)
 
+Daniel 13/08/2018 => Alterações: Inserido componente "CON SFV 24 V 90 FEMEA CONTATO TOP SMD" (052.17.010)
+
