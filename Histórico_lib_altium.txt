@@ -269,6 +269,11 @@ Daniel 13/08/2018 => Alterações: Inserido componente "CON SFV 24 V 90 FEMEA CONT
 
 Daniel 13/08/2018_02 => Alterações: Corrigida altura do 3D do componente "CON MATE-N-LOK 15 VIAS 180 FEMEA PTH" (footprint: CON15_6.35PITCH_6350SERIE)
 
+Nathan 15/08/2018 => Alterações: Inserido componente "RES 150R 5% 10W PTH" (002.35.004)
+                                 Inserido componente "LAMP 24V 1,2W" (006.75.003)
+                                 Inserido componente "IND 100uF 1:1 SRF1260 SMD" (007.10.009)
+				 Inserido componente "TRAN CANAL N IRFL4310 SOT-223" (001.00.008)
+
 
 
 
