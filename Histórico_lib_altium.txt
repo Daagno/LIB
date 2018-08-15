@@ -269,6 +269,6 @@ Daniel 13/08/2018 => Alterações: Inserido componente "CON SFV 24 V 90 FEMEA CONT
 
 Daniel 13/08/2018_02 => Alterações: Corrigida altura do 3D do componente "CON MATE-N-LOK 15 VIAS 180 FEMEA PTH" (footprint: CON15_6.35PITCH_6350SERIE)
 
-   
+
 
 
