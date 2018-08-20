@@ -281,4 +281,6 @@ Rubens 16/08/2018 => Alteração : Inserido componente "CE 100uF 50V SMD" (003.30.
 
 Daniel 20/08/2018 => Alterações: Inserido referência no componente "POT MULTI VOLTAS 3K3 A15-3P PTH" (002.50.009)
 
+Daniel 20/08/2018_02 => Alterações: Inserido componente "CON BARRA 1x10 90 MACHO PTH" (052.01.010)
+
 
