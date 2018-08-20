@@ -277,7 +277,8 @@ Nathan 15/08/2018 => Alterações: Inserido componente "RES 150R 5% 10W PTH" (002.
 Daniel 15/08/2018 => Alterações: Inserido componente "RES 390K 1% 1206 500V" (002.10.036)
 				 Inserido 3D no footprint "A15-3P" (POT MULTI VOLTAS 3K3 A15-3P PTH)
 
+Rubens 16/08/2018 => Alteração : Inserido componente "CE 100uF 50V SMD" (003.30.002)
 
-
+Daniel 20/08/2018 => Alterações: Inserido referência no componente "POT MULTI VOLTAS 3K3 A15-3P PTH" (002.50.009)
 
 
