@@ -283,4 +283,12 @@ Daniel 20/08/2018 => Alterações: Inserido referência no componente "POT MULTI VO
 
 Daniel 20/08/2018_02 => Alterações: Inserido componente "CON BARRA 1x10 90 MACHO PTH" (052.01.010)
 
+Rubens 21/08/2018 => alterações: Inserido componentes: CON BARRA 1x4 180 MACHO PTH 19mm (052.01.017)
+						       CON BARRA 1x7 180 MACHO PTH 19mm (052.01.018)
+						       CON BARRA 1x4 180 FEMEA PTH (052.01.022)
+						       CON BARRA 1x7 180 FEMEA PTH (052.01.019)
+
+Daniel 06/09/2018 => Alterações: Aterada REFERENCIA do componente "CI TLP292-4 SO16" de (001.18.002) para (001.15.003) conforme solicitado pelo Jonathan.
+
+
 
