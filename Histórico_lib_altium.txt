@@ -291,6 +291,7 @@ Rubens 21/08/2018 => alterações: Inserido componentes: CON BARRA 1x4 180 MACHO P
 Daniel 06/09/2018 => Alterações: Aterada REFERENCIA do componente "CI TLP292-4 SO16" de (001.18.002) para (001.15.003) conforme solicitado pelo Jonathan.
 
 Daniel 10/09/2018 => Alterações: Inserido referência e 3D no componente "CE 1000uF 25V PTH" (003.50.013)
+Daniel 10/09/2018_02 => Alterações: Inserido componente "RES 6K8 1% 0603" (002.00.035)
 
 
 
