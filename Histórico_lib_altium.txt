@@ -297,3 +297,6 @@ Daniel 11/09/2018 => Alterações: Inserido componente "POT MULTI VOLTAS 3K3 A15-3
 				 Inserido componente "RES 82R 5% 1/3W PTH" (R82R)
 
 
+Daniel 11/09/2018_02 => Alterações: Corrigida descrição de componente "POT MULTI VOLTAS 3K3 A15-3P SMD" para "POT MULTI VOLTAS 10K A15-3P SMD"
+
+
