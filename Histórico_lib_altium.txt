@@ -293,5 +293,7 @@ Daniel 06/09/2018 => Alterações: Aterada REFERENCIA do componente "CI TLP292-4 S
 Daniel 10/09/2018 => Alterações: Inserido referência e 3D no componente "CE 1000uF 25V PTH" (003.50.013)
 Daniel 10/09/2018_02 => Alterações: Inserido componente "RES 6K8 1% 0603" (002.00.035)
 
+Daniel 11/09/2018 => Alterações: Inserido componente "POT MULTI VOLTAS 3K3 A15-3P SMD" (002.50.010) -> FALTA FOOTPRINT
+				 Inserido componente "RES 82R 5% 1/3W PTH" (R82R)
 
 
