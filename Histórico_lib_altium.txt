@@ -308,4 +308,6 @@ Arthur 18/09/2018 => Alterações: Inserido footprint alternativo do componente "C
 Daniel 28/09/2018 => Alterações: Inserido componente "ENCODER 12X17.5 NOD C/T PEC12R-4017F-S0024" (falta referência) e ajustado footprint do componente "ENCODER 12X20 24D C/T PEC12R-4220F-S0024"
 				 Criada representação alternativa de ambos encoders.
 
+Daniel 01/10/2018 => Alterações: Corrigido 3D do componente "IND 100uH WE-TPC 744071101 SMD" (007.10.003). O 3D anterior estava com a altura errada.
+
 
