@@ -310,4 +310,6 @@ Daniel 28/09/2018 => Alterações: Inserido componente "ENCODER 12X17.5 NOD C/T PE
 
 Daniel 01/10/2018 => Alterações: Corrigido 3D do componente "IND 100uH WE-TPC 744071101 SMD" (007.10.003). O 3D anterior estava com a altura errada.
 
+Daniel 10/10/2018 => Alterações: Inserido componente "TEC TACTIL 2,0MM SMD" (051.00.010) -> Falta footprint e 3D!
+
 
