@@ -315,3 +315,12 @@ Daniel 10/10/2018 => Alterações: Inserido componente "TEC TACTIL 2,0MM SMD" (051
 Arthur 01/11/2018 => Altearções: Inserido componente "CI PROC STM32F072C8T6 LQFP48" (001.05.038)
 
 Daniel 13/11/2018 => Alterações: Inserido componente "CI REG LIN 5V MC78M05CD -40ºC A +125ºC DPAK" (001.10.026) 
+
+Roger 22/11/2018 => Alterações : COMPONENTES SOMBRA
+
+Rubens 23/11/2018 => Alterações : Inserido o componente "CI MM74HC373WM SOIC20" (001.46.004)
+Rubens 23/11/2018 => Alterações : Inserido o componente "CON ITT TRIDENT 24P 180 5,08 PTH" (052.11.006)
+
+Nathan 05/12/2018 => Alterações : Inserido o componente "CI PROC PIC16F886 SSOP28" (001.05.019)
+
+Daniel 11/12/2018 => Alterações : Inserido o componente "DZ 24V 1W MELF" (005.10.017)
