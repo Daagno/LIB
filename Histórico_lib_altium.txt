@@ -324,3 +324,6 @@ Rubens 23/11/2018 => Alterações : Inserido o componente "CON ITT TRIDENT 24P 180
 Nathan 05/12/2018 => Alterações : Inserido o componente "CI PROC PIC16F886 SSOP28" (001.05.019)
 
 Daniel 11/12/2018 => Alterações : Inserido o componente "DZ 24V 1W MELF" (005.10.017)
+
+Daniel 13/12/2018 => Alterações: Inserido footprint no componente "TEC TACTIL 2,0MM SMD" (051.00.010).
+				 Inserido footprint alternativo para montagem de resistor 1206 no componente "D MBRS2040LT3G" (005.20.003)
