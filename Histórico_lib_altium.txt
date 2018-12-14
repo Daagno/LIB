@@ -327,3 +327,7 @@ Daniel 11/12/2018 => Alterações : Inserido o componente "DZ 24V 1W MELF" (005.10
 
 Daniel 13/12/2018 => Alterações: Inserido footprint no componente "TEC TACTIL 2,0MM SMD" (051.00.010).
 				 Inserido footprint alternativo para montagem de resistor 1206 no componente "D MBRS2040LT3G" (005.20.003)
+
+
+Daniel 14/12/2018 => Alterações: Inserido subconjunto "SUBCONJUNTO MODULO BLUETOOTH 17x15" (402.15.002).
+				 Inserido subconjunto "SUBCONJUNTO MODULO BLUETOOTH 22x17" (402.15.001)
