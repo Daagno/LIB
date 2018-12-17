@@ -332,5 +332,7 @@ Daniel 13/12/2018 => Alterações: Inserido footprint no componente "TEC TACTIL 2,
 Daniel 14/12/2018 => Alterações: Inserido subconjunto "SUBCONJUNTO MODULO BLUETOOTH 17x15" (402.15.002).
 				 Inserido subconjunto "SUBCONJUNTO MODULO BLUETOOTH 22x17" (402.15.001)
 
-Daniel 17/12/2018 => Alterações: Inserido componente "CON BARRA 1x5 180 MACHO PTH 25mm" (052.01.013).
+Daniel 17/12/2018_01 => Alterações: Inserido componente "CON BARRA 1x5 180 MACHO PTH 25mm" (052.01.013).
 				 Inserido footprint alternativo "TECLA-SMD_FSMSM_6X3.5MM_PAD_CURTO" no componente "TEC TACTIL 4,57 FSMSM SMD" (051.00.002)
+
+Werle 17/12/2018_02 => Alterações: Inserido componente "CI INFRA TSOP6238" (055.50.001)
