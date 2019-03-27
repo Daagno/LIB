@@ -336,3 +336,8 @@ Daniel 17/12/2018_01 => Alterações: Inserido componente "CON BARRA 1x5 180 MACHO
 				 Inserido footprint alternativo "TECLA-SMD_FSMSM_6X3.5MM_PAD_CURTO" no componente "TEC TACTIL 4,57 FSMSM SMD" (051.00.002)
 
 Werle 17/12/2018_02 => Alterações: Inserido componente "CI INFRA TSOP6238" (055.50.001)
+
+Daniel 27/03/2019 => Alterações: Inserido componente "CON MINIFIT 10V 90 FEMEA PTH" (052.21.022)
+				 Inserido componente "CON MINIFIT 8V 90 FEMEA PTH" (052.21.008)
+				 Inserido componente "CON MINIFIT 6V 90 FEMEA PTH" (052.21.028)
+
