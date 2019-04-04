@@ -352,3 +352,7 @@ Daniel 29/03/2019 => Alterações: Inserido componente "IND BEAD 1.0KR/600MA" (007
 Daniel 02/04/2019 => Alterações: Inserido componente "SUBCONJUNTO SENSOR DE CORRENTE 40A 69x19" (402.25.001)
 
 Daniel 03/04/2019 => Alterações: Renomeado numeração de pinos do componente "CI SENSOR HUMIDADE E TEMPERATURA SMD" (055.70.001)
+
+Nathan 04/04/2019 => Alterações: Inserido componente "CI LM5010 HTSSOP 14" (001.10.002)
+
+Daniel 04/04/2019 => Alterações: Alterado footprint "PLACA SENSOR DE CORRENTE 40A" do componente "SUBCONJUNTO SENSOR DE CORRENTE 40A 69x19"
