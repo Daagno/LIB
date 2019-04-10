@@ -356,3 +356,10 @@ Daniel 03/04/2019 => Alterações: Renomeado numeração de pinos do componente "CI 
 Nathan 04/04/2019 => Alterações: Inserido componente "CI LM5010 HTSSOP 14" (001.10.002)
 
 Daniel 04/04/2019 => Alterações: Alterado footprint "PLACA SENSOR DE CORRENTE 40A" do componente "SUBCONJUNTO SENSOR DE CORRENTE 40A 69x19"
+
+Arthur 09/04/2019 => Alterações: Inserido componente "CI ADM2587E SOIC20" (001.35.003)
+				 Inserido componente "CI SP485RCN SO8" (001.35.004)
+
+Daniel 10/04/2019 => Alterações: Inserido componente "CI CUR SENSE ACS725LLCTR-50AB-T SOIC8" (055.25.002)
+				 Alterado descrição do componente "SUBCONJUNTO SENSOR DE CORRENTE 40A 69x19" para "SUBCONJUNTO SENSOR DE CORRENTE R1HPS001". O código (402.25.001) permaneceu o mesmo.
+
