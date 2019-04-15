@@ -363,3 +363,9 @@ Arthur 09/04/2019 => Alterações: Inserido componente "CI ADM2587E SOIC20" (001.3
 Daniel 10/04/2019 => Alterações: Inserido componente "CI CUR SENSE ACS725LLCTR-50AB-T SOIC8" (055.25.002)
 				 Alterado descrição do componente "SUBCONJUNTO SENSOR DE CORRENTE 40A 69x19" para "SUBCONJUNTO SENSOR DE CORRENTE R1HPS001". O código (402.25.001) permaneceu o mesmo.
 
+Arthur 11/04/2019 => Alterações: Alterado desenho do componente "CI SP485RCN SO8"
+
+Arthur 11/04/2019 => Alterações: Inserido refência do componente "CI LTV-817A DIP4" (001.18.003)
+
+Daniel 15/04/2019 => Alterações: Inserido componente "ENCODER 12X24,5 18D 9P EC11E09244AQ" (051.25.002)
+
