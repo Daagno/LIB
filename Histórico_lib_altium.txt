@@ -369,3 +369,4 @@ Arthur 11/04/2019 => Alterações: Inserido refência do componente "CI LTV-817A DI
 
 Daniel 15/04/2019 => Alterações: Inserido componente "ENCODER 12X24,5 18D 9P EC11E09244AQ" (051.25.002)
 
+Daniel 16/04/2019 => Alterações: Ajustada serigrafia do footprint do componente "CI SENSOR HUMIDADE E TEMPERATURA SMD" (055.70.001)
