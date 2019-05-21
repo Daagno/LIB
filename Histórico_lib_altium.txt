@@ -370,3 +370,13 @@ Arthur 11/04/2019 => Alterações: Inserido refência do componente "CI LTV-817A DI
 Daniel 15/04/2019 => Alterações: Inserido componente "ENCODER 12X24,5 18D 9P EC11E09244AQ" (051.25.002)
 
 Daniel 16/04/2019 => Alterações: Ajustada serigrafia do footprint do componente "CI SENSOR HUMIDADE E TEMPERATURA SMD" (055.70.001)
+
+Rubens 07/05/2019 => Alterações: Criado novo componente "TRAN PNP MJD32CT4G DPAK"   (008.20.006) 
+
+Rubens 10/05/2019 => Alterações: Corrigido a representação grafica do  TRAN PNP MJD32CT4G DPAK arrumado para representação PNP
+				 Criado novo componente "CON BARRA 2x9 90 FEMEA PTH" (052.01.055)
+Rubens 13/05/2019 => Alteração: Criado novo compoente "CON BARRA 2x10 90 FEMEA PTH" (052.01.056)
+
+Rubens 17/05/2019 => Alteração: Corrigido componente "CON BARRA 2x9 90 FEMEA PTH" (052.01.055),"CON BARRA 2x10 90 FEMEA PTH" (052.01.056) rotacionado em 180° Pino 1 dos conectores.
+
+Rubens 20/05/2019 => Alteração: Corrigido footprint do conector mini fit CON MINIFIT 12V 180 FEMEA PTH;
