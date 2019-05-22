@@ -380,3 +380,6 @@ Rubens 13/05/2019 => Alteração: Criado novo compoente "CON BARRA 2x10 90 FEMEA P
 Rubens 17/05/2019 => Alteração: Corrigido componente "CON BARRA 2x9 90 FEMEA PTH" (052.01.055),"CON BARRA 2x10 90 FEMEA PTH" (052.01.056) rotacionado em 180° Pino 1 dos conectores.
 
 Rubens 20/05/2019 => Alteração: Corrigido footprint do conector mini fit CON MINIFIT 12V 180 FEMEA PTH;
+
+Daniel 22/05/2019 => Alterações: Inserido componente "POT 10K 20% PTC15NV18-103A2020 PTH" (002.50.007) e footprints alternativos para montagem 90º e 180º além de opção com INDAK.
+
