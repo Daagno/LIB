@@ -384,3 +384,7 @@ Rubens 20/05/2019 => Alteração: Corrigido footprint do conector mini fit CON MIN
 Daniel 22/05/2019 => Alterações: Inserido componente "POT 10K 20% PTC15NV18-103A2020 PTH" (002.50.007) e footprints alternativos para montagem 90º e 180º além de opção com INDAK.
 
 Daniel 24/05/2019 => Alterações: Inserido componente "CON WTB WAFER 8 VIAS 90 MACHO 1,25 MM PITCH SMD" (052.17.002) e "CON WTB WAFER 4 VIAS 90 MACHO 1,25 MM PITCH SMD" (052.17.012).
+
+Eduardo 27/05/2019 => Alterações: Inserido componente "CI PROC STM08S003F3P6 TSSOP20" (001.05.026)
+
+Eduardo 28/05/2019 => Alterações: Inserido componente "RES 560R 1% 0603" (002.00.032)
