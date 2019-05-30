@@ -394,3 +394,5 @@ Eduardo 28/05/2019 => Alterações: Alterado desenho do componente "CI PROC STM08S
 Eduardo 28/05/2019 => Alterações: Alterado (pela segunda vez) desenho do componente "CI PROC STM08S003F3P6 TSSOP20" (001.05.026)
 
 Daniel 28/05/2019 => Alterações: Inserido componente "RES 150K 1% 0805" (002.05.037).
+
+Daniel 30/05/2019 => Alterações: Inserido componente "CI SENSOR HUMIDADE E TEMPERATURA ANALOGICO 3% 5V SMD" (055.70.002).
