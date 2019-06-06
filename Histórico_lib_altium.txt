@@ -398,3 +398,7 @@ Daniel 28/05/2019 => Alterações: Inserido componente "RES 150K 1% 0805" (002.05.
 Daniel 30/05/2019 => Alterações: Inserido componente "CI SENSOR HUMIDADE E TEMPERATURA ANALOGICO 3% 5V SMD" (055.70.002).
 
 Daniel 04/06/2019 => Alterações: Inserido diodo schokkty "D MBRS260T3G" (005.20.005).
+
+Daniel 05/06/2019 => Alterações: Inserido componente "CON BARRA 1x8 180 MACHO SMD" (052.01.048).
+
+Daniel 06/06/2019 => Alterações: Inserido componente "RELE 24V HF3FF/024-1ZST" (030.05.002).
