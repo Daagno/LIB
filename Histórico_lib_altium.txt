@@ -402,3 +402,5 @@ Daniel 04/06/2019 => Alterações: Inserido diodo schokkty "D MBRS260T3G" (005.20.
 Daniel 05/06/2019 => Alterações: Inserido componente "CON BARRA 1x8 180 MACHO SMD" (052.01.048).
 
 Daniel 06/06/2019 => Alterações: Inserido componente "RELE 24V HF3FF/024-1ZST" (030.05.002).
+
+Daniel 07/06/2019 => Alterações: Inserido componente "CI REG LDO 5V NCP5500" (001.10.028).
