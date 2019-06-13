@@ -404,3 +404,15 @@ Daniel 05/06/2019 => Alterações: Inserido componente "CON BARRA 1x8 180 MACHO SM
 Daniel 06/06/2019 => Alterações: Inserido componente "RELE 24V HF3FF/024-1ZST" (030.05.002).
 
 Daniel 07/06/2019 => Alterações: Inserido componente "CI REG LDO 5V NCP5500" (001.10.028).
+
+Arthur 11/06/2019 => Alterações: Inserido componente "TRAN CANAL N MDE1932RH D2PAK" (008.20.005).
+
+Arthur 12/06/2019 => Alterações: Inserido componente "RES 0R010 1% 2512" (002.15.001).  DZ 12V 1/2W MINIMELF
+
+Arthur 12/06/2019 => Alterações: Inserido componente "DZ 12V 1/2W MINIMELF" (005.10.007).
+
+Arthur 13/06/2019 => Alterações: Inserido componente "CON FASTON 6 VIAS MACHO 180º 6.3MM 25A PTH" (xxx.yy.zzz) (Ainda não há referência, conector montado na GLOBUS).
+
+Daniel 13/06/2019 => Alterações: Inserido componente "D TVS SM8S33CA-Q DO-218-2" (A DEFINIR (VEIO COMO AMOSTRA PARA O PROJETO P6HPS621 EM 13/06/2019 - DANIEL))
+		     Alterações: Inserido componente "TRAN CANAL P SQM120P06-07L_GE3 TO-263-3" (A DEFINIR (VEIO COMO AMOSTRA PARA O PROJETO P6HPS621 EM 13/06/2019 - DANIEL))
+
