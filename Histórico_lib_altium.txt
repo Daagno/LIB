@@ -421,3 +421,5 @@ Arthur 14/06/2019 => Alterações: Alterado componente "CON FASTON 6 VIAS MACHO 18
 Daniel 14/06/2019 => Alterações: Inserido componente "TRAN CANAL P IPB120P04P4L03 TO-263-3" (008.20.008).
 				 Inserido REFERENCIA em "TRAN CANAL P SQM120P06-07L_GE3 TO-263-3" (008.20.007).
 				 Inserido REFERENCIA em "D TVS SM8S33CA-Q DO-218-2" (005.25.005).
+
+Daniel 18/06/2019 => Alterações: Inserido código no componente "CON MINIFIT 4V 180 FEMEA PTH" (052.21.027).
