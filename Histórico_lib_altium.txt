@@ -423,3 +423,23 @@ Daniel 14/06/2019 => Alterações: Inserido componente "TRAN CANAL P IPB120P04P4L0
 				 Inserido REFERENCIA em "D TVS SM8S33CA-Q DO-218-2" (005.25.005).
 
 Daniel 18/06/2019 => Alterações: Inserido código no componente "CON MINIFIT 4V 180 FEMEA PTH" (052.21.027).
+
+Nathan 18/06/2019 => Alterações: Inserido código e corrigido footprint no componente "SUPORTE BAT CR2032 LINX" (052.07.006)
+                                 Inserido componente "CON SL 02VIAS 180 FEMEA PTH" (052.10.026)
+                                 Inserido componente "CON KK 08VIAS 180 FEMEA PTH" (052.10.027)
+                                 Inserido componente "DIP SWITCH 1X1 ATUADOR ESTENDIDO SMD" (051.05.003).
+
+Arthur 24/06/2019 => Alterações: Inserido componente "CI REG CHA EML3350 E-SOP-8L" (001.10.029).
+				 Alterado desenho do componente "CON KK 8 VIAS 180 FEMEA PTH (052.10.027)"
+
+Arthur 24/06/2019 => Alterações: Alterada referencia do componente "CI REG CHA EML3350 E-SOP-8L" (001.25.003).
+
+Arthur 25/06/2019 => Alterações: Inserido referencia do componente "TRAN PNP FMMT593 SOT-23" (008.00.003).
+
+Arthur 26/06/2019 => Alterações: Inserido componente "VAR VRS20K30 PTH" (010.00.007).
+				 Inserido componente "CE 470uF 50V PTH" (003.50.003).
+
+Eduardo 27/06/2019 => Alterações: Corrigido cadastro do componente "CI SMD MICROCONTR 08BITS STM8S003F3P6" (001.05.026).
+				  Corrigido cadastro do componente "CONECTOR WTB MACHO 04 VIAS 90º P/ PCI" (052.17.012).
+
+Daniel 03/07/2019 => Alterações: Criado componente "Fiducial Referencia" para ser usado como ponto zero para pick and place.
