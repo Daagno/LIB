@@ -442,4 +442,7 @@ Arthur 26/06/2019 => Alterações: Inserido componente "VAR VRS20K30 PTH" (010.00.
 Eduardo 27/06/2019 => Alterações: Corrigido cadastro do componente "CI SMD MICROCONTR 08BITS STM8S003F3P6" (001.05.026).
 				  Corrigido cadastro do componente "CONECTOR WTB MACHO 04 VIAS 90º P/ PCI" (052.17.012).
 
-Daniel 03/07/2019 => Alterações: Criado componente "Fiducial Referencia" para ser usado como ponto zero para pick and place.
+Daniel 03/07/2019 => Alterações: Criado componente "Fiducial Referencia" para ser usado como ponto zero para pick and place. 
+
+Daniel 09/07/2019 => Alterações: Criado componente "LED AM 3528" (006.00.032). 
+
