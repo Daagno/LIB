@@ -446,3 +446,16 @@ Daniel 03/07/2019 => Alterações: Criado componente "Fiducial Referencia" para se
 
 Daniel 09/07/2019 => Alterações: Criado componente "LED AM 3528" (006.00.032). 
 
+Werle 16/07/2019 => Alterações: Alterado referência do componente "DIP SWITCH 1X1 ATUADOR ESTENDIDO SMD" de 051.05.033 para 051.05.003
+
+Nathan 24/07/2019 => Alterações: Inserido componente "Rele 12V  AZ770-1C-12D" 
+				 Inserido componente "Rele 12V  AZ8A–1CH–12D" 
+Nathan 26/07/2019 => Alterações: Inserido componente "Rele 12V  AZ951–1C–12DE" 
+
+Nathan 13/08/2019 => Alterações: Inserido referência no componente "Rele 12V  AZ951–1C–12DE" (030.05.012)
+
+Arthur 19/08/2019 => Alterações: Inserido referência do componente "CON FASTON 6 VIAS MACHO 180º 6.3MM 25A PTH" (052.05.023) 
+
+Nathan 22/08/2019 => Alterações: Alterado footprint e 3D do componente "CON FUSIVEL 1VIA 180 FEMEA" (052.04.019)
+
+Daniel 10/09/2019 => Alterações: Criado componente "DISP 7 VM S A 17MM 0.56IN SMD" (006.30.010). 
