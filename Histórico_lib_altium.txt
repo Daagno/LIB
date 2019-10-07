@@ -465,3 +465,9 @@ Rafael 11/09/2019 => Alterações: Criado componente "TRAFO E: 115/230V 50/60HZ S:
 Rafael 12/09/2019 => Alterações: Corrigido componente "TRAFO E: 115/230V 50/60HZ S: 12+12V 420MA+420MA" (007.50.012).
 
 Daniel 12/09/2019 => Alterações: Criado componente "DISP 7 VM S A 15MM 0.51IN SMD" (006.30.011). 
+
+Arthur 23/09/2019 => Alterações: Criado componente "RES 150R 5% 1/3W PTH" (R150R). 
+
+Nathan 04/10/2019 => Alterações: Criado componente "CI PROC PIC16F913 SOIC28" (001.05.013). 
+
+Daniel 07/10/2019 => Alterações: Criado componente "POT 10K 30% RDC506018A SMD" (055.30.001). 
