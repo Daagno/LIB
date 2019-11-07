@@ -471,3 +471,7 @@ Arthur 23/09/2019 => Alterações: Criado componente "RES 150R 5% 1/3W PTH" (R150R
 Nathan 04/10/2019 => Alterações: Criado componente "CI PROC PIC16F913 SOIC28" (001.05.013). 
 
 Daniel 07/10/2019 => Alterações: Criado componente "POT 10K 30% RDC506018A SMD" (055.30.001). 
+
+Rubens 30/10/2019 => Alterações: Criado componente "PIC24HJ64GP204 TQFP44" (001.05.010).
+
+Daniel 07/11/2019 => Alterações: Alterado footprints do componente "Fiducial Referencia" pois fabricantes de placa estavam esxcluindo a serigrafia de indicação dos eixos. 
