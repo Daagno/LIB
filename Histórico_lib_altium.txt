@@ -474,4 +474,16 @@ Daniel 07/10/2019 => Alterações: Criado componente "POT 10K 30% RDC506018A SMD" 
 
 Rubens 30/10/2019 => Alterações: Criado componente "PIC24HJ64GP204 TQFP44" (001.05.010).
 
-Daniel 07/11/2019 => Alterações: Alterado footprints do componente "Fiducial Referencia" pois fabricantes de placa estavam esxcluindo a serigrafia de indicação dos eixos. 
+Daniel 07/11/2019 => Alterações: Alterado footprints do componente "Fiducial Referencia" pois fabricantes de placa estavam excluindo a serigrafia de indicação dos eixos. 
+
+Rubens 20/11/2019 => Alterações: Criado componentes: MOD ESP32-WROOM-32D (001.30.008), MOD ESP32-WROOM-32U (001.30.009), 
+						     CI PROC  STM32F105RBT6 (001.05.041), CI PROC STM32F105RCT6 (001.05.042)
+
+Rubens 21/11/2019 => Alterações: Correção-falta de componente na biblioteca anterior: CI PROC  STM32F105RBT6 – (001.05.041)
+
+Rubens 21/11/2019 => Alterações: Correção - Faltou o parametro value nos componentes MOD ESP32-WROOM-32D (001.30.008), MOD ESP32-WROOM-32U (001.30.009), 
+						     CI PROC  STM32F105RBT6 (001.05.041), CI PROC STM32F105RCT6 (001.05.042)
+Rubens 25/11/2019 => Alterações: Criação de componente   CI REG LDO 3V3 NCP5501 (001.10.029)
+
+Daniel 27/11/2019 => Alterações: Criado componente "CI PROC MKW36Z512VFP4 HVQFN40" (001.05.044).
+				 Criado componente "CI PROC MKW36A512VFP4 HVQFN40" (001.05.043) versão automotiva do processador.
