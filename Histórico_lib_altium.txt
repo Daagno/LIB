@@ -487,3 +487,6 @@ Rubens 25/11/2019 => Alterações: Criação de componente   CI REG LDO 3V3 NCP5501 
 
 Daniel 27/11/2019 => Alterações: Criado componente "CI PROC MKW36Z512VFP4 HVQFN40" (001.05.044).
 				 Criado componente "CI PROC MKW36A512VFP4 HVQFN40" (001.05.043) versão automotiva do processador.
+
+Daniel 28/11/2019 => Alterações: Criado componente "CE 330uF 50V SMD" (003.30.003)
+				 Corrigido modelo 3D dos componentes "CE 220uF 25V SMD" (003.30.005) e "CE 220uF 50V SMD" (003.30.004)
