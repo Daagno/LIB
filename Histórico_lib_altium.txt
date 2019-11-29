@@ -490,3 +490,5 @@ Daniel 27/11/2019 => Alterações: Criado componente "CI PROC MKW36Z512VFP4 HVQFN4
 
 Daniel 28/11/2019 => Alterações: Criado componente "CE 330uF 50V SMD" (003.30.003)
 				 Corrigido modelo 3D dos componentes "CE 220uF 25V SMD" (003.30.005) e "CE 220uF 50V SMD" (003.30.004)
+
+Daniel 29/11/2019 => Alterações: Criado componente "RES 3K3 1% 0603" (002.00.018)
