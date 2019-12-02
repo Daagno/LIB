@@ -500,3 +500,5 @@ Daniel 02/12/2019 => Alterações: Criado componente "CI TCA0372DM2ELG" (001.45.00
 				 Criado componente "NTC 10K @ 25ºC 0,5% 0603" (055.00.003)
 
 Daniel 02/12/2019(2) => Alterações: Criado componente "LED AZ 0805" (006.00.002)
+
+Daniel 02/12/2019(3) => Alterações: Criado componente "RES 56R 1% 0805" (002.05.030)
