@@ -502,3 +502,5 @@ Daniel 02/12/2019 => Alterações: Criado componente "CI TCA0372DM2ELG" (001.45.00
 Daniel 02/12/2019(2) => Alterações: Criado componente "LED AZ 0805" (006.00.002)
 
 Daniel 02/12/2019(3) => Alterações: Criado componente "RES 56R 1% 0805" (002.05.030)
+
+Nathan 02/12/2019(4) => Alterações: Alterado desenho do componente "CI PROC PIC16F886-I/SO SOIC28" (001.05.015)
