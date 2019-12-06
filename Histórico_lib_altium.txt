@@ -513,3 +513,4 @@ Daniel 04/12/2019 => Alterações: Alterado footprints do componente "D PESD1LIN" 
 				 irá correlacionar, necessariamente, com um diodo.
 Rubens 05/12/2019 => Alterações: Criado o componente XTAL 32,768KHZ 20ppm 12,5p SMD 1206 (009.00.010)
 
+Daniel 06/12/2019 => Alterações: Criado componente mosfet canal P "TRAN CANAL P IRLML6401TRPBF SOT-23" (SOLICITADO CADASTRO AO JONATHAN EM 06/12/2019 (DANIEL))
