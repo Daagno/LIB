@@ -511,3 +511,5 @@ Daniel 04/12/2019 => Alterações: Alterado footprints do componente "D PESD1LIN" 
 				 diodo em que a polaridade da montagem define o clamp de tensão. Assim, se deixássemos a marcação de diodo no footprint, o pessoal iria montar sempre na mesma 
 				 orientação, independentemente do clamp ter sido ajustado para 15V ou 24V. Assim, foi definido um ponto no pino 1 e a montagem terá que idenfificar sempre a posição do pino 1 e não 
 				 irá correlacionar, necessariamente, com um diodo.
+Rubens 05/12/2019 => Alterações: Criado o componente XTAL 32,768KHZ 20ppm 12,5p SMD 1206 (009.00.010)
+
