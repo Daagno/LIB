@@ -530,3 +530,7 @@ Daniel 11/12/2019 => Alterações: Criado componente "XTAL 32MHZ 10ppm 10pF SMD" (
 						   "IND 2,7nH 0603 SMD" (SOLICITADO CADASTRO AO JONATHAN EM 10/12/2019 (DANIEL)) -> Projeto P3HWB005 (Smart Temp 3.0)
 						   "IND 3,3nH 0603 SMD" (SOLICITADO CADASTRO AO JONATHAN EM 10/12/2019 (DANIEL)) -> Projeto P3HWB005 (Smart Temp 3.0)
 						   "IND 100nH 0603 SMD" (SOLICITADO CADASTRO AO JONATHAN EM 10/12/2019 (DANIEL)) -> Projeto P3HWB005 (Smart Temp 3.0)
+
+Daniel 11/12/2019_02 => Altera desenho dos componentes "CI PROC MKW36Z512VFP4 HVQFN40" (001.05.044) e "CI PROC MKW36A512VFP4 HVQFN40" (001.05.043) versão automotiva do processador
+						   com o intuito de facilitar a ligação dos pinos. Esta alteração não impacta em nada pois o processador é novo e nunca foi usado em 
+						   outros projetos.
