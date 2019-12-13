@@ -531,6 +531,14 @@ Daniel 11/12/2019 => Alterações: Criado componente "XTAL 32MHZ 10ppm 10pF SMD" (
 						   "IND 3,3nH 0603 SMD" (SOLICITADO CADASTRO AO JONATHAN EM 10/12/2019 (DANIEL)) -> Projeto P3HWB005 (Smart Temp 3.0)
 						   "IND 100nH 0603 SMD" (SOLICITADO CADASTRO AO JONATHAN EM 10/12/2019 (DANIEL)) -> Projeto P3HWB005 (Smart Temp 3.0)
 
-Daniel 11/12/2019_02 => Altera desenho dos componentes "CI PROC MKW36Z512VFP4 HVQFN40" (001.05.044) e "CI PROC MKW36A512VFP4 HVQFN40" (001.05.043) versão automotiva do processador
+Daniel 11/12/2019_02 => Alteração dos desenhos dos componentes "CI PROC MKW36Z512VFP4 HVQFN40" (001.05.044) e "CI PROC MKW36A512VFP4 HVQFN40" (001.05.043) versão automotiva do processador
 						   com o intuito de facilitar a ligação dos pinos. Esta alteração não impacta em nada pois o processador é novo e nunca foi usado em 
 						   outros projetos.
+
+Daniel 13/12/2019 => Alterações: Inserido componente diodo zener "DZ 2,7V 1/2W MINIMELF" (005.10.009)
+				 Inserida referência (008.20.009) no componente "TRAN CANAL P IRLML6401TRPBF SOT-23"
+				 Inserida nova opção de footprint com pads e serigrafia reduzida (modelos "RF") nos componentes "CC 100nF 50V 0603", "CC 1uF 50V 0603" e "RES 10K 1% 0603".
+				 Este footprint alternativo foi desenvolvido para atender questões de espaço e de alta frequência no projeto Smart Temp 3.0 da Webasto (P3HWB005). Por padrão o 
+				 footprint vem com antigo (original) quando o componente é colocado no esquema. Se quiser usar o footprint "RF" alternativo, deves selecioná-lo.
+
+
