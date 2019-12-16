@@ -541,4 +541,22 @@ Daniel 13/12/2019 => Alterações: Inserido componente diodo zener "DZ 2,7V 1/2W M
 				 Este footprint alternativo foi desenvolvido para atender questões de espaço e de alta frequência no projeto Smart Temp 3.0 da Webasto (P3HWB005). Por padrão o 
 				 footprint vem com antigo (original) quando o componente é colocado no esquema. Se quiser usar o footprint "RF" alternativo, deves selecioná-lo.
 
+Daniel 16/12/2019 => Alterações: Inserida referência nos componentes: 
+				 (009.00.011) no "XTAL 32MHZ 10ppm 10pF SMD"
+				 (003.00.005) no "CC 0,8pF 50V 0603"
+				 (007.20.001) no "IND 4,7nH 0603 SMD"
+				 (190.05.005) no "ANT PCB 2,4GHz -0,5 dBi 50 Ohms"
+				 (003.00.006) no "CC 1,2pF 50V 0603"
+				 (003.00.007) no "CC 1,5pF 50V 0603"
+				 (003.00.008) no "CC 1uF 50V 0603"
+				 (003.00.010) no "CC 10pF 50V 0603"
+				 (003.00.011) no "CC 10uF 25V 0603"
+				 (003.00.012) no "CC 12pF 50V 0603"
+				 (007.20.002) no "IND 1nH 0603 SMD"
+				 (007.20.003) no "IND 2,7nH 0603 SMD"
+				 (007.20.004) no "IND 3,3nH 0603 SMD"
+				 (007.20.005) no "IND 100nH 0603 SMD"
+				 (003.00.009) no "CC 3pF 50V 0603"
+				Criado componente "D SCHOTTKY NSVRB751S40T1G SOD-523" ((SOLICITADO CADASTRO AO JONATHAN EM 16/12/2019 (DANIEL)) -> Projeto P3HWB005 (Smart Temp 3.0))
+
 
