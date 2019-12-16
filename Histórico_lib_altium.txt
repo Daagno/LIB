@@ -559,4 +559,6 @@ Daniel 16/12/2019 => Alterações: Inserida referência nos componentes:
 				 (003.00.009) no "CC 3pF 50V 0603"
 				Criado componente "D SCHOTTKY NSVRB751S40T1G SOD-523" ((SOLICITADO CADASTRO AO JONATHAN EM 16/12/2019 (DANIEL)) -> Projeto P3HWB005 (Smart Temp 3.0))
 
+Daniel 16/12/2019_02 => Alterações: Inserido componente "RES 33K 1% 0603" (002.00.016)
+
 
