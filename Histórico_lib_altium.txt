@@ -568,4 +568,6 @@ Daniel 17/12/2019_02 => Alterações: Inserido componente "RES 2K2 1% 0603" (002.0
 Daniel 18/12/2019 => Alterações: Inserido componente "CON BARRA 2x5 180 MACHO SMD" ((SOLICITADO CADASTRO AO JONATHAN EM 18/12/2019 (DANIEL)) -> Projeto P3HWB005 (Smart Temp 3.0))
 				 Inserido componente "CON BARRA 2x5 180 FEMEA SMD" (052.01.002)
 
+Daniel 18/12/2019_02 => Alterações: Inserido nova opção de footprint no componente "PAD"
+
 
