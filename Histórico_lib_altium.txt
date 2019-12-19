@@ -570,4 +570,4 @@ Daniel 18/12/2019 => Alterações: Inserido componente "CON BARRA 2x5 180 MACHO SM
 
 Daniel 18/12/2019_02 => Alterações: Inserido nova opção de footprint no componente "PAD"
 
-
+Daniel 19/12/2019 => Alterações: Inserido referencia (005.20.006) no componente "D SCHOTTKY NSVRB751S40T1G SOD-523"
