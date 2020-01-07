@@ -576,3 +576,9 @@ Daniel 19/12/2019_02 => Alterações: Inserido referencia (052.01.057) no componen
 				    Inserido referência (001.45.004) no componente "CI LM2904 MSOP8"
 
 Daniel 20/12/2019 => Alterações: Inserido componente "CI SENSOR OTICO REFLEXIVO QRE1113GR SMD" (055.20.001)
+
+Daniel 07/01/2020 => Alterações: Inserido componente "CC 1nF 50V 0603" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
+				 Inserido componente "CC 100pF 50V 0603" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
+				 Inserido componente "IND BEAD 1.5KR/300MA 0603 SMD" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
+
+
