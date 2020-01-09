@@ -582,3 +582,12 @@ Daniel 07/01/2020 => Alterações: Inserido componente "CC 1nF 50V 0603" (FALTA CA
 				 Inserido componente "IND BEAD 1.5KR/300MA 0603 SMD" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
 
 
+Daniel 09/01/2020 => Alterações: Inserido referência (003.00.014) no componente "CC 1nF 50V 0603"
+				 Inserido referência (003.00.013) no componente "CC 100pF 50V 0603"
+				 Inserido referência (007.00.003) no componente "IND BEAD 1.5KR/300MA 0603 SMD"
+				 Inserido componente "CE 0,47F 3,5V 10,8 x 8,5mm SMD" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
+				 Inserido componente "SHIELD CLIP COMPACT 2,3 X 2,0 X 1,2MM SMD" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
+				 Inserido componente "SHIELD COVER 16,5MM X 16,5MM X 3,6MM NON-VENTED" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
+				 Inserido componente "SHIELD COVER 16,5MM X 16,5MM X 3,6MM VENTED" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
+
+
