@@ -590,4 +590,6 @@ Daniel 09/01/2020 => Alterações: Inserido referência (003.00.014) no componente 
 				 Inserido componente "SHIELD COVER 16,5MM X 16,5MM X 3,6MM NON-VENTED" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
 				 Inserido componente "SHIELD COVER 16,5MM X 16,5MM X 3,6MM VENTED" (FALTA CADASTRO DO JONATHAN (PROJETO P3HWB005))
 
+Daniel 09/01/2020_02 => Alterações: Inserido componente "RES 270R 1% 0603" referência (002.00.028)
+
 
