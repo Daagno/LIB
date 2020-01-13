@@ -597,3 +597,5 @@ Daniel 10/01/2020 => Alterações: Ajustados "pinos ocultos" da base do conector "
 				 Inserido referência (053.11.004) no componente "SHIELD CLIP COMPACT 2,3 X 2,0 X 1,2MM SMD" 
 				 Inserido referência (190.02.001) no componente "SHIELD COVER 16,5MM X 16,5MM X 3,6MM NON-VENTED" 
 				 Inserido referência (190.02.002) no componente "SHIELD COVER 16,5MM X 16,5MM X 3,6MM VENTED" 
+
+Daniel 13/01/2020 => Alterações: Corrigido 3D do componente "CON BARRA 2x5 180 FEMEA SMD" (052.01.002)
