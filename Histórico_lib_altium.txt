@@ -599,3 +599,5 @@ Daniel 10/01/2020 => Alterações: Ajustados "pinos ocultos" da base do conector "
 				 Inserido referência (190.02.002) no componente "SHIELD COVER 16,5MM X 16,5MM X 3,6MM VENTED" 
 
 Daniel 13/01/2020 => Alterações: Corrigido 3D do componente "CON BARRA 2x5 180 FEMEA SMD" (052.01.002)
+
+Daniel 13/01/2020_02 => Alterações: Corrigido 3D do componente "DISP GRAF 1.25" 96X128" (006.40.003)
