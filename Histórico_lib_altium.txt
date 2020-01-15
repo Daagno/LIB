@@ -602,11 +602,14 @@ Daniel 13/01/2020 => Alterações: Corrigido 3D do componente "CON BARRA 2x5 180 F
 
 Daniel 13/01/2020_02 => Alterações: Corrigido 3D do componente "DISP GRAF 1.25" 96X128" (006.40.003)
 
-Daniel 14/01/2020 => Alterações: Criado componente "CC 0,8pF 50V 0402" (003.20.001) -> Projeto P3HWB005 (Smart Temp 3.0)
+Daniel 15/01/2020 => Alterações: Criado componente "CC 0,8pF 50V 0402" (003.20.001) -> Projeto P3HWB005 (Smart Temp 3.0)
 						   "IND 4,7nH 0402 SMD" (007.20.006) -> Projeto P3HWB005 (Smart Temp 3.0)
 						   "CC 1,2pF 50V 0402" (003.20.002) -> Projeto P3HWB005 (Smart Temp 3.0)
 						   "IND 2,7nH 0402 SMD" (007.20.007) -> Projeto P3HWB005 (Smart Temp 3.0)
 						   "IND 3,3nH 0402 SMD" (007.20.008) -> Projeto P3HWB005 (Smart Temp 3.0)
+
+
+Daniel 15/01/2020_2 => Alterações: Melhorada representação 3D dos footprints "I0603_RF_H0.8mm","C0402" e "C0402_RF_H0.5MM".						 
 
 
 
