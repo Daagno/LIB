@@ -609,7 +609,9 @@ Daniel 15/01/2020 => Alterações: Criado componente "CC 0,8pF 50V 0402" (003.20.0
 						   "IND 3,3nH 0402 SMD" (007.20.008) -> Projeto P3HWB005 (Smart Temp 3.0)
 
 
-Daniel 15/01/2020_2 => Alterações: Melhorada representação 3D dos footprints "I0603_RF_H0.8mm","C0402" e "C0402_RF_H0.5MM".						 
+Daniel 15/01/2020_2 => Alterações: Melhorada representação 3D dos footprints "I0603_RF_H0.8mm","C0402" e "C0402_RF_H0.5MM".
+
+Daniel 17/01/2020 => Alterações: Criado componente "CON COAXIAL UFL 50 OHMS SMD" (052.06.003) -> Projeto P3HWB005 (Smart Temp 3.0)						 
 
 
 
