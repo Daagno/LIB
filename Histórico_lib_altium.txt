@@ -619,3 +619,7 @@ Daniel 05/02/2020 => Alterações: Criado componente "CI PROC MK10DN128VLF5 LQFP48
 Werle 08/02/2020 => Alterações: Inserido referência (003.05.019) no componente "CC 3pF 50V 0805"
 
 Arthur 11/02/2020 => Alterações: Criado componente "RES 220K 1% 1206" (002.10.012)
+
+Daniel 13/02/2020 => Alterações: Criado componente "RES 120K 1% 0603" (002.00.025) -> Projeto P3HWB005 (Smart Temp 3.0 Advanced)
+				 Criado componente "CI LM5010AMH TSSOP14" (001.10.002) -> Projeto P3HWB005 (Smart Temp 3.0 Advanced)
+				 Inserido referência (007.10.010) no componente "IND 22uH PSDB1004NT220 SMD"
