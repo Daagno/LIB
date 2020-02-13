@@ -616,4 +616,6 @@ Daniel 17/01/2020 => Alterações: Criado componente "CON COAXIAL UFL 50 OHMS SMD"
 Daniel 05/02/2020 => Alterações: Criado componente "CI PROC MK10DN128VLF5 LQFP48" (001.05.006) -> Projeto P3HWB005 (Smart Temp 3.0)						 
 				 Criado componente "CI PROC MK20DN128VLF5 LQFP48" (001.05.036) -> Projeto P3HWB005 (Smart Temp 3.0)
 
+Werle 08/02/2020 => Alterações: Inserido referência (003.05.019) no componente "CC 3pF 50V 0805"
 
+Arthur 11/02/2020 => Alterações: Criado componente "RES 220K 1% 1206" (002.10.012)
