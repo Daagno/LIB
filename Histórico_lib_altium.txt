@@ -623,3 +623,65 @@ Arthur 11/02/2020 => Alterações: Criado componente "RES 220K 1% 1206" (002.10.01
 Daniel 13/02/2020 => Alterações: Criado componente "RES 120K 1% 0603" (002.00.025) -> Projeto P3HWB005 (Smart Temp 3.0 Advanced)
 				 Criado componente "CI LM5010AMH TSSOP14" (001.10.002) -> Projeto P3HWB005 (Smart Temp 3.0 Advanced)
 				 Inserido referência (007.10.010) no componente "IND 22uH PSDB1004NT220 SMD"
+
+Arthur 19/02/2020 => Alterações: Corrigido componente "RELE 12V HF3FF/012-1ZST" (030.05.008)
+
+Arthur 26/02/2020 => Alterações: Inserido referencia do componente "TRAN NPN FMMT493 SOT-23" (008.00.004)
+
+Arthur 04/03/2020 => Alterações: Criado componente "TRAN CANAL N MDS1951 SOIC8" (008.20.010)
+
+Nathan 11/03/2020 => Alterações: Criado componente "D 1N5404 PTH" (005.05.001)
+                                                   "LED VD 1206"  (006.00.016)
+                                                   "CON FUSIVEL 2 VIAS 180 FEMEA" (052.04.008)
+                                                   "CON FUSIVEL 3 VIAS 180 FEMEA" (052.04.017)
+
+Nathan 11/03/2020 => Alterações: Criado componente "FUSIVEL AUTO LAMINA 5A -  LITTELFUSE" (050.00.007)
+                                                   "FUSIVEL AUTO LAMINA 10A - LITTELFUSE" (050.00.008)
+                                                   "FUSIVEL AUTO LAMINA 15A - LITTELFUSE" (050.00.009)
+                                                   "FUSIVEL AUTO LAMINA 20A - LITTELFUSE" (050.00.010)
+                                                   "CON DAMPER 5VIAS 180° FEMEA" (052.15.001)
+
+Nathan 03/04/2020 => Alterações: Criado componente "ETIQUETA TORQUE 13 N.m." 
+                                                   "ETIQUETA TENSAO 12V" 
+                                                   "ETIQUETA TENSAO 24V" 
+
+Roger 23/04/2020 => Alterações: Criado componente "Etiqueta_Code_30X15MM" 
+                                                  "Etiqueta_QR-Code_15X15MM" 
+
+Arthur 30/04/2020 => Alterações: Inserido componente "CON FASTON 6 VIAS MACHO 180º 6.3MM 25A PTH C/ 4 TERMINAIS" (052.05.025) 
+
+Eduardo 02/06/2020 => Alterações: Criado componente "CONECTOR WAGO CAGE CLAMP 16MM2 03 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.003)
+                                                    "CONECTOR WAGO CAGE CLAMP 16MM2 02 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.007)
+					            "CONECTOR WAGO CAGE CLAMP 16MM2 04 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.008)
+						    "CONECTOR WAGO CAGE CLAMP 04MM2 03 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.009)
+
+Eduardo 04/06/2020 => Alterações: Alterados componentes: "CONECTOR WAGO CAGE CLAMP 16MM2 03 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.003)
+                                                    	 "CONECTOR WAGO CAGE CLAMP 16MM2 02 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.007)
+					            	 "CONECTOR WAGO CAGE CLAMP 16MM2 04 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.008)
+						    	 "CONECTOR WAGO CAGE CLAMP 04MM2 03 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.009)
+
+Eduardo 04/06/2020 (rev.02) => Alterações: Alterados componentes: "CONECTOR WAGO CAGE CLAMP 16MM2 03 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.003)
+                                                    	 	  "CONECTOR WAGO CAGE CLAMP 16MM2 02 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.007)
+					            	 	  "CONECTOR WAGO CAGE CLAMP 16MM2 04 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.008)
+						    	 	  "CONECTOR WAGO CAGE CLAMP 04MM2 03 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.009)
+
+Eduardo 08/06/2020 => Alterações: Alterados componentes: "CONECTOR WAGO CAGE CLAMP 16MM2 03 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.003)
+                                                    	 "CONECTOR WAGO CAGE CLAMP 16MM2 02 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.007)
+					            	 "CONECTOR WAGO CAGE CLAMP 16MM2 04 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.008)
+						    	 "CONECTOR WAGO CAGE CLAMP 04MM2 03 VIAS COM ALAVANCA P/ PCI CINZA" (052.19.009)
+
+RUBENS 17/06/2020 => Alteração: Crido componente "CI PROC PIC16F1938" (001.05.002)
+
+Evandro 22/06/2020 => Conforme e-mail enviado pelo Evandro no dia 22/06/2020: "Srs. Adicionei no Drive para uso comum a biblioteca Globus com atualização do silkscreen de alguns diodos/leds, onde o contorno dos mesmos foram ajustados para melhor representação nas placas. Att. Evandro Sasso"
+
+Eduardo 03/07/2020 => Alterações: Crido componente: "CI PROC STM32F030C8T6 (001.05.039)"
+
+Arthur 06/07/2020 => Alterações: Inserido componente "TRAN CANAL P PJL9425 SOIC8" (FALTA CADASTRO DO JONATHAN) -> PROJETO M0HDT001 
+		     		 Inserido componente "D MBR2080CTG" (DMBR2080CT) -> PROJETO M0HDT001
+
+Arthur 06/07/2020_2 => Alterações: Inserido componente "CON BARRA 2x8 180 FEMEA PTH" (052.01.031) -> PROJETO M0HDT001 
+		         	   Inserido componente "CON BARRA 2x8 180 MACHO 21mm PTH" (052.01.054) -> PROJETO M0HDT001
+
+Evandro 15/07/2020 => Conforme e-mail enviado pelo Evandro no dia 15/07/2020: "Srs. Adicionei no Drive para uso comum a biblioteca Globus com atualização do silkscreen de dois diodos, onde o contorno dos mesmos foram ajustados para melhor representação nas placas."
+
+Daniel 16/07/2020 => Alterações: Criado componente "RES 1R2 5% 1W PTH" (002.35.022)
